@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 7f9c1be1b36f9053e52ebb354e664bd66edb5069 sejerborg2015 <mette@b-brock.dk> 1439555859 +0200	commit (initial): :confetti_ball: Added .gitattributes & .gitignore files
+7f9c1be1b36f9053e52ebb354e664bd66edb5069 16aa6b1ac9dad96ad4f97ad65f2e270b0cec4e4f sejerborg2015 <mette@b-brock.dk> 1439558674 +0200	commit: css_bootstrap
+16aa6b1ac9dad96ad4f97ad65f2e270b0cec4e4f 16aa6b1ac9dad96ad4f97ad65f2e270b0cec4e4f sejerborg2015 <mette@b-brock.dk> 1439559453 +0200	checkout: moving from master to gh-pages
