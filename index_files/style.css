@@ -217,7 +217,7 @@ background: url(../images/img-sprite.png) no-repeat -133px 0px;
 /*-- //header --*/
 /*-- banner --*/
 .banner{
-background: url(banner1.jpg) no-repeat 0px 0px;
+background: src="../images/banner1.jpg" no-repeat 0px 0px;
 background-size:cover;
 -webkit-background-size: cover;
 -o-background-size: cover;
